@@ -6,3 +6,5 @@ let c = 8;
 let d = 10;
 
 const arr = [];
+
+console.log(a*c*d); // 400

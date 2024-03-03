@@ -7,6 +7,8 @@ let d = 10;
 
 const arr = [];
 
+console.log('first commit');
+
 function sumNums(a, b, c) {
     return (a + b + c);
 }

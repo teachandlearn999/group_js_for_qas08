@@ -1,2 +1,2 @@
-let = 'Hallo'
-let = "I'm Natalie"
+let name = 'Hallo';
+console.log('name');

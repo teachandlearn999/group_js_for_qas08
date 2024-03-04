@@ -7,14 +7,6 @@ let d = 10;
 
 const arr = [];
 
-
-
-
-
-
-
-
-
-
-
-console.log(a*c*d); // 400
+console.log('first commit');
+arr.push('a');
+console.log(arr);

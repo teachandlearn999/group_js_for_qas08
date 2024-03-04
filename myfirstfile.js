@@ -30,3 +30,10 @@ user1.lastName = 'Doe'
 Person.prototype.nationality = "English"
 console.log(user1)
 console.log(user1.nationality)
+
+let room = {
+    height: 3,
+    tv: "samsung",
+    big: true
+};
+console.log(room);

@@ -8,3 +8,5 @@ let d = 10;
 const arr = [];
 
 console.log('first commit');
+arr.push('a');
+console.log(arr);

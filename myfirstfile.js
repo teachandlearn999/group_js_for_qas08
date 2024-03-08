@@ -37,3 +37,12 @@ let room = {
     big: true
 };
 console.log(room);
+
+
+function login(group) {
+    console.log("Hi, " + nameGroup + "!");
+}
+
+let nameGroup = "group_is_for_qas08";
+
+login(nameGroup);
